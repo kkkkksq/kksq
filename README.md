@@ -1,4 +1,4 @@
 # kksq
 For this course use only
 
-[前往YORIKO.md](/YORIKO.md)
+[前往CHICHI.md](/CHICHI.md)
